@@ -244,8 +244,8 @@
     "fonts": {
         "ggsans-Bold": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-Bold.ttf",
         "ggsans-BoldItalic": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-BoldItalic.ttf",
-	"ggsans-ExtraBold": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-Normal.ttf",
-	"ggsans-ExtraBoldItalic": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-Normal.ttf",
+	"ggsans-ExtraBold": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-Bold.ttf",
+	"ggsans-ExtraBoldItalic": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-BoldItalic.ttf",
 	"ggsans-Medium": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-Medium.ttf",
 	"ggsans-MediumItalic": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-MediumItalic.ttf",
 	"ggsans-Normal": "https://github.com/iAmSpace/random-stuff/raw/main/Whitney-Normal.ttf",
