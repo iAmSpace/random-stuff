@@ -137,5 +137,8 @@
         "WHITE_500": "#ffffff"
        
     },
+    "fonts": {
+        "ggsans-Normal": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf"
+    },
     "spec": 2
 }
