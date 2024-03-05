@@ -1,10 +1,14 @@
 {
-    "name": "Wavy",
-    "description": "Pefect for AMOLED screens.",
+    "name": "Wavy (lifix)",
+    "description": "Pefect for AMOLED screens. - Original by Ari",
     "authors": [
         {
             "name": "Ari",
             "id": "639959347518242821"
+        },
+        {
+            "name": "Lifix",
+            "id": "180430713873498113"
         }
     ],
     "semanticColors": {
@@ -21,10 +25,10 @@
             "#a6a6a6"
         ],
         "TEXT_DANGER": [
-            "#747474"
+            "#740000"
         ],
         "TEXT_LINK": [
-            "#a6a6a6"
+            "#a6a6f6"
         ],
         "INTERACTIVE_NORMAL": [
             "#a1a1a1"
@@ -124,12 +128,12 @@
         "BRAND_360": "#858585",
         "BRAND_500": "#5c5c5c",
         "BRAND_560": "#e3e3e3",
-        "GREEN_360": "#5c5c5c",
-        "RED_400": "#5c5c5c",
+        "GREEN_360": "#205c20",
+        "RED_400": "#5c2020",
         "ORANGE_345": "#000000",
-        "RED_560": "#000000",
+        "RED_560": "#772020",
         "GREEN_345": "#000000",
-        "BLUE_345": "#000000",
+        "BLUE_345": "#202050",
         "WHITE_500": "#ffffff"
        
     },
