@@ -138,7 +138,16 @@
        
     },
     "fonts": {
-        "ggsans-Normal": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf"
+        "ggsans-Bold": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+        "ggsans-BoldItalic": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-ExtraBold": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-ExtraBoldItalic": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-Medium": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-MediumItalic": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-Normal": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-NormalItalic": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-Semibold": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf",
+	    "ggsans-SemiboldItalic": "https://github.com/iAmSpace/random-stuff/raw/main/whitney.ttf"
     },
     "spec": 2
 }
